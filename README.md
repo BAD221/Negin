@@ -10,7 +10,9 @@ git clone https://github.com/BAD221/Twix.git;cd Twix;bash Run.sh
 1⇠ توكن البوت حط التوكن واضغط انتر
 2⇠ معرف المطور الاساسي واضغط انتر
 3⇠ ايدي المطور الاساسي واضغط انتر
+
 كود حذف التنصيب
+
 
 
 rm -rf Twix
