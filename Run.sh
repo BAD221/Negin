@@ -44,13 +44,13 @@ sudo luarocks install luasec
 sudo luarocks install luasocket
 cd ../..
 rm -rf tmp
-unzip tdbot.zip
+unzip luatele.zip
 sudo lua5.3 Twix.lua
 ;;
 2)
 echo -e "\e[1m\e[32mجاري التشغيل ⟐ \e[0m"
 sleep 2
-unzip tdbot.zip
+unzip luatele.zip
 sudo lua5.3 Twix.lua
 ;;
 esac
