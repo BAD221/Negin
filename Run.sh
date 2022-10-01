@@ -6,7 +6,7 @@ Please wait until the installation is complete
 \033[0m'
 echo -e '\033[0;33m
 the best source in telegram
-> Dev › @iiiiiiiGii
+> Dev › @IIIIIIGII
 تحميل المكاتب ارسل (1)  ⟐
 تنصيب سريع ارسل (2)  ⟐
 \033[0m'
@@ -44,13 +44,13 @@ sudo luarocks install luasec
 sudo luarocks install luasocket
 cd ../..
 rm -rf tmp
-unzip tdbot.zip
+unzip Twixtele.zip
 sudo lua5.3 Twix.lua
 ;;
 2)
 echo -e "\e[1m\e[32mجاري التشغيل ⟐ \e[0m"
 sleep 2
-unzip tdbot.zip
+unzip Twixtele.zip
 sudo lua5.3 Twix.lua
 ;;
 esac
