@@ -3,7 +3,7 @@ Twix V2
 كود تنصيب رقم 1 مع المكاتب رقم 2 بدون مكاتب
  انسخ الكود الاتي ↓
 
-git clone https://github.com/BAD221/Twix.git;cd Twix;bash Run.sh
+git clone https://github.com/BAD221/Negin.git;cd Negin;bash Run.sh
 
 
 عند انتهاء التنصيب سيطلب منك 
@@ -15,14 +15,14 @@ git clone https://github.com/BAD221/Twix.git;cd Twix;bash Run.sh
 
 
 
-rm -rf Twix
+rm -rf Negin
 
 ثم
 
-rm -fr ~/theTwix && screen -S theTwix -X kill
+rm -fr ~/theNegin && screen -S theNegin -X kill
 
  كود الرن
 
-cd Twix 
+cd Negin
 
 bash Run.sh
