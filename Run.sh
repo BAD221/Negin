@@ -1,7 +1,7 @@
 #!/bin/bash
 cd $(cd $(dirname $0); pwd)
 echo -e '\e[1m\e[31m
-Twix source is being installed, 
+Negin source is being installed, 
 Please wait until the installation is complete
 \033[0m'
 echo -e '\033[0;33m
@@ -45,12 +45,12 @@ sudo luarocks install luasocket
 cd ../..
 rm -rf tmp
 unzip tdbot.zip
-sudo lua5.3 Twix.lua
+sudo lua5.3 Negin.lua
 ;;
 2)
 echo -e "\e[1m\e[32mجاري التشغيل ⟐ \e[0m"
 sleep 2
 unzip tdbot.zip
-sudo lua5.3 Twix.lua
+sudo lua5.3 Negin.lua
 ;;
 esac
